@@ -2,6 +2,6 @@ background_opacity .80
 font_family Iosevka
 font_size 20.0
 # BEGIN_KITTY_THEME
-# Adapta Nokto Maia
+# Gruvbox Dark
 include current-theme.conf
 # END_KITTY_THEME
